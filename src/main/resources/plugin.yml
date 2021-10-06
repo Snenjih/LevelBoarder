@@ -1,0 +1,4 @@
+name: Level
+version: '${project.version}'
+main: net.swady.level.Level
+api-version: 1.17

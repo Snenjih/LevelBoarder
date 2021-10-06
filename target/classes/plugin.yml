@@ -1,0 +1,4 @@
+name: Level
+version: '1.0-SNAPSHOT'
+main: net.swady.level.Level
+api-version: 1.17
